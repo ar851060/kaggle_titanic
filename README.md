@@ -4,3 +4,4 @@ test is test dataset
 train is train dataset  
 gender_submission is a dummy classifier by gender from officials  
 titanic_submission is the result I created  
+kaggle_api_commands is all about kaggle api and unzip zip file  
